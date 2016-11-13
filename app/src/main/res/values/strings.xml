@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC Writer</string>
+    <string name="securityOnDuty">Security on duty</string>
+    <string name="clientNameText">Nama Client</string>
+    <string name="location" >Lokasi</string>
+    <string name="gedung">Gedung</string>
+    <string name="floor">Lantai</string>
+
+</resources>
